@@ -144,10 +144,6 @@ const ChatTemplate = () => {
 
 
 
-
-
-
-
   )
 }
 
