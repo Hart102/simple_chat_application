@@ -33,4 +33,3 @@ export const ChatHeader = ({ Id, onclick, func }) => {
     )
 }
 
-// s
